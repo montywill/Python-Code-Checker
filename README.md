@@ -19,3 +19,10 @@ A Python command-line tool that scans Python source files and reports common iss
 
 ```bash
 python code_checker.py
+
+Enter a Python filename when prompted.
+
+Example Output
+Summary: 0 errors, 20 warnings, 4 notes
+Line 154: Line is long (111 chars)
+Line 136: Found TODO/FIXME note
